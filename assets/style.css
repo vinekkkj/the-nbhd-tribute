@@ -1,0 +1,107 @@
+html {
+    font-family: Helvetica;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.container {
+    max-width: 1500px;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.header p {
+    border: none;
+}
+
+.bold {
+    font-weight: bold;
+    color: dimgray;
+}
+
+.bold-white {
+    font-weight: 800px;
+    color: #660404;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size:50px;
+}
+
+.main-paragraph {
+    font-style: italic;
+    font-size: 17px;
+}
+
+.featured-image {
+    text-align: center;
+    margin-top: 30px;
+}
+
+img {
+    border: 5px solid #e20c0c6c;
+    border-radius: 50px;
+}
+
+.biography-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dotted grey;
+   
+}
+
+
+.quotes-container {
+    background-color: gray;
+    padding: 30px;
+    border: 5px solid #e20c0c6c;
+    border-radius: 50px;
+    display: inline-block;
+    border-bottom: 1px dotted grey;
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+    border-bottom: 1px dotted grey;
+}
+
+.quotes-container p {
+    font-style: italic;
+}
+
+.curiosites-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dotted grey;
+}
+
+
+.curiosites-container a {
+    color: #e20c0c6c;
+    
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.curiosites-container li {
+height: 30px;
+}
+
+.img-bold {
+    font-weight: bold;
+    text-align: center;
+    margin: 80px;
+    border-top: 1px dotted grey;
+}
+
+p {
+    border-left: 2px double #fff;
+    padding: 20px;
+}
+
